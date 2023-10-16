@@ -1,0 +1,6 @@
+# MacOS temporary files
+.DS_Store
+
+# JetBrains Files
+.idea
+*.iml
